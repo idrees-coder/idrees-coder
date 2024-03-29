@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adeel
+- 👋 Hi, I’m Idrees
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on web related projects
